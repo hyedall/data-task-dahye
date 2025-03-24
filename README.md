@@ -7,12 +7,12 @@
 
 ## 디렉터리 구조
 ---
-├── assignment1 # 과제 1: 단어 분석
-│   ├── assignment1_word_analysis.py 
-│   └── example.txt # 입력 파일
-├── assignment2 # 과제 2: 아키텍처 설계 문서
-│   └── assignment2_architecture.md
-└── README.md # 과제 설명  
+├── assignment1 # 과제 1: 단어 분석  
+│   ├── assignment1_word_analysis.py   
+│   └── example.txt # 입력 파일  
+├── assignment2 # 과제 2: 아키텍처 설계 문서  
+│   └── assignment2_architecture.md  
+└── README.md # 과제 설명   
 
 ## 과제 1 : 단어 세기
 ---
